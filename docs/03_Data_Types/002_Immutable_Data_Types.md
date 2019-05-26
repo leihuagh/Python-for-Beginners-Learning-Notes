@@ -1,17 +1,10 @@
-# Standard Data Types
-
-## Types
-
-- Values cannot be changed (Immutable Data Types)
-- Values can be changed (Mutable Data Types)
-
-## Immutable Data Types
+# Immutable Data Types
 
 - Numbers
 - Strings
 - Tuples
 
-### Numeric Data Type
+## Numeric Data Type
 
 - Python supports three different numerical values
   - int (Signed Integers)
@@ -22,14 +15,14 @@
   - Octal
   - Hexadecimal
 
-### String - Immutable Data Type
+## String
 
 - The continuous set of characters represented within quotation is called as String.
 - Python allows for either pairs of single or double quotes.
 - Pythong does not support a character type, these are treated as strings of length one
 - Python canot differentiate between single and double quotes
 
-### Tuples - Immutable Data Type
+## Tuples
 
 - Tuples consists of a number of values separated by comma. It is enclosed within parenthesis
 - Unlike Arrays in `C`, A Tuple can have objects of different data types
@@ -39,9 +32,3 @@
 A = (1, 2, 3.5, 'Education')
 print(A)
 ```
-
-## Mutable Data Types
-
-- Lists
-- Dictionaries
-- Sets
