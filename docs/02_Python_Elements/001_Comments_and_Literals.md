@@ -1,7 +1,5 @@
 # Comments and Literals
 
-## Refer to test.py
-
 ## Comments
 
 - Any text to the right of the # symbol is mainly used as notes for the readers
