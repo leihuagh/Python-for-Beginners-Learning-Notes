@@ -38,3 +38,25 @@ A = {'Age': 24, 'Name': 'John'}
 
 print(A)
 ```
+
+## Sets
+
+### Definitions
+
+- A set is an unordered collection of items
+- Every element is unique
+- A set is created by placing all the items (elements) inside curly braces `{}`, separated by comma
+
+### Example
+
+```python
+A = {1, 2, 3, 3}
+
+print(A)
+```
+
+Output:
+
+```shell
+{1, 2, 3}
+```
