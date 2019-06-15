@@ -15,3 +15,7 @@
 ## Data Analysis
 
 - pandas
+
+## Educational Notes
+
+- LaTex
