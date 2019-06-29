@@ -14,3 +14,6 @@ Three double quotes
 print("This is code")
 
 2
+4
+
+print("This is after numbers")
