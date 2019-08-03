@@ -11,3 +11,4 @@ print(list2[2])
 
 list2[2] = 7
 
+print(list2[2])

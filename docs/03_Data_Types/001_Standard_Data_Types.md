@@ -8,16 +8,16 @@
 ## Immutable Data Types
 
 - Numbers
-    - Integers
-    - Floating
+  - Integers
+  - Floating
 - Strings
 - Tuples
-    - Using `()`
+  - Using `()`
 
 ## Mutable Data Types
 
 - Lists
-    - Using `[]`
+  - Using `[]`
 - Dictionaries
-    - Key-Value pair
+  - Key-Value pair
 - Sets
