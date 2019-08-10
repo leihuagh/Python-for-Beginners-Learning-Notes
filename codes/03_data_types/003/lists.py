@@ -11,12 +11,13 @@ print(A)
 
 B = [[1, 2, 4], 4, "third element", (2, 4, 5)]
 
+print(B[0])
 print(B[0][2])
 print(B[0][1])
 print(B[1])
 
 C = ([1, 2, 4], 4, "third element", (2, 4, 5))
 
-print(C[0][2])
+print(C[3][2])
 print(C[0][1])
 print(C[1])

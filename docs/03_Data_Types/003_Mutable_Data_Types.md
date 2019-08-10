@@ -8,9 +8,9 @@
 
 - List is an ordered set of elements enclosed within square brackets.
 
-### Main Differences between Lists and Tumples
+### Main Differences between Lists and Tuples
 
-- Lists are enclosed in brackets[]while tuples are enclosed within parenthesis()
+- Lists are enclosed in brackets[] while tuples are enclosed within parenthesis()
 - Lists are Mutable and tuples are immutable
 - Tuples are faster than lists
 
