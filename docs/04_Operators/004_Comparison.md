@@ -32,7 +32,7 @@ a < b
 a >= b
 ```
 
-- Less Than: `<=`
+- Less Than Equal To: `<=`
 
 ```python
 a <= b
