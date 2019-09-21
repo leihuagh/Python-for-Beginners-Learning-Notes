@@ -5,4 +5,10 @@
 - `.argv` refers to the number of arguments passed, and `argv[]` is a pointer array which points to each argument which is passed to main
 - The Python `sys` module provides access to any command-line arguments via the `sys.argv`. This serves two purposes:
   - `sys.argv` is the list of command-line arguments
-  - len(sys.argv) is the number of command-line arguments
+  - `len(sys.argv)` is the number of command-line arguments
+
+## Example
+
+```shell
+python clp.py 1 2 3 4 5 6
+```
