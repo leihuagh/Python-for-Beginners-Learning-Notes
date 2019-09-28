@@ -1,7 +1,8 @@
 # Loop up index
-fruits = ['Banana', 'Apple', 'Groups']
+fruits = ['Banana', 'Apple', 'Grapes']
 
 print('loop up via index value')
+print(len(fruits))
 for index in range(len(fruits)):
     print(fruits[index])
 
